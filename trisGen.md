@@ -1,5 +1,7 @@
 trisGen
 =======
+'''c
+
 #include <stdlib.h>
 #include <conio.h>
 #define DIM 5
@@ -107,3 +109,4 @@ int main(){
     
     
 }
+'''
